@@ -8,3 +8,9 @@ Sequencer has eight steps and individual synthesizer voice has separate sequence
 Hardware consists of central synthesizer unit which generates sound and outputs it to line out. It also has seven segment display, rotary encoder and buttons to save and load patterns as songs. It has four seven pin DIN connectors to connect up to four controllers - so the pattern played can be controlled by multiple musicians in real time.
 
 It kind of works but have no time to finish or improve it - so giving it to public in case someone gets interested.
+
+https://hackaday.io/project/163506-footsynth
+
+Synth part inspiration: 
+https://groovesizer.com/tb2-resources/
+http://groovuino.blogspot.com/

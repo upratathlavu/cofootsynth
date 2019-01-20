@@ -11,6 +11,6 @@ It kind of works but have no time to finish or improve it - so giving it to publ
 
 https://hackaday.io/project/163506-footsynth
 
-Synth part inspiration: 
+Inspiration: 
 https://groovesizer.com/tb2-resources/
 http://groovuino.blogspot.com/

@@ -1,5 +1,5 @@
 # cofootsynth
-Prototype of colaborative (multi-user) feet-controlled polyphonic synthesizer & sequencer based on Arduino.
+Prototype of collaborative (multi-user) feet-controlled polyphonic synthesizer & sequencer based on Arduino.
 
 Synthesizer, which uses Direct digital synthesis to generate sound, consists of four separate voices. Wave type of individual voice is selectable: sine, square, saw and triangle. The aim was to be able to even generate sound of one voice combining multiple of these waves, but it's unfinished. Wave parameters - frequency and envelope (attack, decline, sustain, release) are adjustable.
 
